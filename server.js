@@ -39,6 +39,7 @@ const allowedOrigins = [
   "http://localhost:3000",         // local dev (agar React CRA use ho)
   "https://metadigitalagency.in",  // live site
   "https://www.metadigitalagency.in",
+  "https://meta-digital-agency.vercel.app"
 ];
 
 app.use(helmet());
